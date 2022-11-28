@@ -1,0 +1,6 @@
+(
+    name: "GenCaster client",
+    summary: "Live coding client for the GenCaster system",
+    version: "0.1",
+    copyright: "GenCaster",
+)
